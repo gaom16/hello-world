@@ -1,3 +1,5 @@
+hello £¬ i want to test this function,of changes,thanks£¡
+
 package com.macroft.objectTracker.robot;
 
 import android.content.Context;
